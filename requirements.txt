@@ -31,7 +31,7 @@ nbformat==4.4.0
 networkx==1.9
 nibabel==2.2.1
 nilearn==0.4.0
-notebook==5.2.2
+notebook==5.4.2
 numpy==1.13.3
 pandas==0.21.1
 pandocfilters==1.4.2
